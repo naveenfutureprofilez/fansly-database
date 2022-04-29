@@ -1,0 +1,13 @@
+{
+    "name": "Super",
+    "alias": "super",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Super\\Providers\\SuperServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
